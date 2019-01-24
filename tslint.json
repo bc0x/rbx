@@ -37,6 +37,7 @@
       "options": { "ignore-module": "(\\.sass)$" },
       "severity": "default"
     },
+    "no-typeof-undefined": false,
     "no-relative-imports": false,
     // We want to allow JSDoc
     // https://github.com/Microsoft/tslint-microsoft-contrib/issues/385

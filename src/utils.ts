@@ -4,7 +4,7 @@ import { Lit } from "./types";
 
 export const canUseDOM = () =>
   !(
-    window === undefined ||
+    typeof window === "undefined" ||
     window.document === undefined ||
     window.document.createElement === undefined
   );

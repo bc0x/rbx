@@ -1,13 +1,13 @@
 {
-  "name": "rbx",
-  "version": "2.0.1",
+  "name": "@bcox/rbx",
+  "version": "2.0.2",
   "description": "The Comprehensive Bulma UI Framework for React",
   "main": "dist/rbx.umd.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfee/rbx.git"
+    "url": "git+https://github.com/bc0x/rbx.git"
   },
   "scripts": {
     "build": "make build",
@@ -22,7 +22,7 @@
     "bulma.io",
     "typescript"
   ],
-  "author": "Devin Fee",
+  "author": "Devin Fee and Brandon Cox",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dfee/rbx/issues"
